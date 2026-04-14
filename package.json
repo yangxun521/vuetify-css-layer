@@ -7,6 +7,9 @@
     "build": "vite build",
     "preview": "vite preview"
   },
+  "engines": {
+    "node": "24"
+  },
   "dependencies": {
     "@vueuse/core": "^14.2.1",
     "pinia-plugin-persist": "^1.0.0",
